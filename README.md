@@ -14,8 +14,8 @@
 
 ## 🚀 About Me
 
-- 💻 Software developer building **web, desktop, and mobile applications**  
-- 🧩 Focused on creating scalable, real-world software systems  
+- 💻 Full-stack developer building **web, desktop, and mobile applications**  
+- 🧩 Focused on creating scalable, real-world software systems across frontend and backend  
 - ☁️ Working with cloud infrastructure and modern deployment practices  
 - 🤖 Integrating AI into products and workflows  
 - ⚡ Passionate about solving complex problems with clean, efficient solutions  
@@ -57,8 +57,9 @@
 ## 🧠 What I'm Focused On
 
 ```text
-🌐 Web, desktop, and mobile application development
-⚙️ Scalable .NET systems and clean architecture
+🌐 Full-stack development (frontend + backend)
+📱 Web, desktop, and mobile applications
+⚙️ Scalable .NET systems
 ☁️ Cloud infrastructure & deployment
 🤖 AI-powered features and automation
 🧩 End-to-end product development
