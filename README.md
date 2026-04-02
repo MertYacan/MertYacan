@@ -6,6 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/MertYacan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/MertYacan)
 [![GitHub stars](https://img.shields.io/github/stars/MertYacan?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/MertYacan)
+[![Profile Views](https://komarev.com/ghpvc/?username=MertYacan&style=for-the-badge&color=blueviolet)](https://github.com/MertYacan)
 
 </div>
 
