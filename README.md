@@ -54,19 +54,6 @@
 
 ---
 
-## 🧠 What I'm Focused On
-
-```text
-🌐 Full-stack development (frontend + backend)
-📱 Web, desktop, and mobile applications
-⚙️ Scalable .NET systems
-☁️ Cloud infrastructure & deployment
-🤖 AI-powered features and automation
-🧩 End-to-end product development
-```
-
----
-
 ## 📈 GitHub Activity
 
 <div align="center">
