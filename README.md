@@ -32,23 +32,23 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 🖥️ Application Development
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![MAUI](https://img.shields.io/badge/.NET_MAUI-0F172A?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-6D28D9?style=for-the-badge&logo=blazor&logoColor=white)
+![MAUI](https://img.shields.io/badge/MAUI-1E293B?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-2563EB?style=for-the-badge&logo=windows&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-7C3AED?style=for-the-badge&logo=windows&logoColor=white)
 
 ### ☁️ Cloud & Infra
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0284C7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F97316?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-E11D48?style=for-the-badge&logo=hetzner&logoColor=white)
 
 ### 🗄️ Data
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-16A34A?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🤖 AI Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-F59E0B?style=for-the-badge&logo=anthropic&logoColor=black)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-0F172A?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 </div>
 
