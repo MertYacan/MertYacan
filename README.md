@@ -1,16 +1,91 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MertYacan/MertYacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mert Yacan 👋
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=.NET+Developer;Full-Stack+Builder;Cloud+%26+AI+Focused)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub followers](https://img.shields.io/github/followers/MertYacan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/MertYacan)
+[![GitHub stars](https://img.shields.io/github/stars/MertYacan?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/MertYacan)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 .NET developer building real-world applications  
+- 🧱 Experienced across desktop, web, and cross-platform stacks  
+- ☁️ Working with cloud infrastructure and deployment  
+- 🤖 Integrating AI into products and workflows  
+- ⚡ Focused on clean architecture, scalability, and performance  
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### 🧩 Core
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### 🖥️ App Development
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![MAUI](https://img.shields.io/badge/.NET_MAUI-0F172A?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
+
+### ☁️ Cloud & Infra
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+
+### 🗄️ Data
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 AI Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+</div>
+
+---
+
+## 🧠 What I'm Focused On
+
+```text
+⚙️ Scalable .NET applications
+☁️ Cloud infrastructure & deployment
+🤖 AI-powered features and automation
+🧩 End-to-end systems (frontend + backend + infra)
+```
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MertYacan&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MertYacan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/mert-yacan)
+
+</div>
+
+---
+
+<div align="center">
+
+**Build systems that actually work.**
+
+</div>
