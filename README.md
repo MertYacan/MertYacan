@@ -2,7 +2,7 @@
 
 # Hi, I'm Mert Yacan 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=.NET+Developer;Full-Stack+Builder;Cloud+%26+AI+Focused)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=.NET+Developer;Full-Stack+Engineer;Web%2C+Desktop+%26+Mobile+Apps;Cloud+%26+AI+Focused)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/MertYacan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/MertYacan)
 [![GitHub stars](https://img.shields.io/github/stars/MertYacan?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/MertYacan)
@@ -13,11 +13,12 @@
 
 ## 🚀 About Me
 
-- 💻 .NET developer building real-world applications  
-- 🧱 Experienced across desktop, web, and cross-platform stacks  
-- ☁️ Working with cloud infrastructure and deployment  
+- 💻 Software developer building **web, desktop, and mobile applications**  
+- 🧩 Focused on creating scalable, real-world software systems  
+- ☁️ Working with cloud infrastructure and modern deployment practices  
 - 🤖 Integrating AI into products and workflows  
-- ⚡ Focused on clean architecture, scalability, and performance  
+- ⚡ Passionate about solving complex problems with clean, efficient solutions  
+- 🏗️ Background in BIM/AEC workflows and Autodesk plugin development (ADN Member)  
 
 ---
 
@@ -29,7 +30,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 🖥️ App Development
+### 🖥️ Application Development
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![MAUI](https://img.shields.io/badge/.NET_MAUI-0F172A?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -55,10 +56,11 @@
 ## 🧠 What I'm Focused On
 
 ```text
-⚙️ Scalable .NET applications
+🌐 Web, desktop, and mobile application development
+⚙️ Scalable .NET systems and clean architecture
 ☁️ Cloud infrastructure & deployment
 🤖 AI-powered features and automation
-🧩 End-to-end systems (frontend + backend + infra)
+🧩 End-to-end product development
 ```
 
 ---
@@ -73,19 +75,9 @@
 
 ---
 
-## 📫 Connect
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MertYacan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/mert-yacan)
-
-</div>
-
----
-
-<div align="center">
-
-**Build systems that actually work.**
 
 </div>
