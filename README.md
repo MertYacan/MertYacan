@@ -46,7 +46,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-16A34A?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🤖 AI Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-F59E0B?style=for-the-badge&logo=anthropic&logoColor=black)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-0F172A?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
